@@ -1,3 +1,3 @@
 # vb-library-sqlite
 
-created only for learning porpouses.
+created for learning purposes.
